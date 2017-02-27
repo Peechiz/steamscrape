@@ -18,7 +18,7 @@ getGames('yourSteamName').then(games => {
 
 Sample output:
 
-```
+```json
 [
   {
     "hours": "411",
@@ -26,4 +26,5 @@ Sample output:
     "title": "Team Fortress 2",
     "url": "http://store.steampowered.com/app/440"
   }
-]```
+]
+```
